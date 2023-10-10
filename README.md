@@ -3,7 +3,7 @@
 
 ***
 
-<img src="https://myreadme.vercel.app/api/embed/ImMaxence?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ImMaxence?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://komarev.com/ghpvc/?username=ImMaxence&color=blueviolet&label=PROFILE+VIEWS" alt="watching_count" />
 
