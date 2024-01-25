@@ -27,7 +27,10 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=ImMaxence&count_private=true&theme=dracula"
     alt="ImMaxence"
   />
-  <img
+</div>
+
+<div align="center">
+    <img
     src="https://github-profile-trophy.vercel.app/?username=ImMaxence&column=3&theme=dracula&margin-w=5&margin-h=5"
     alt="ImMaxence"
   />
