@@ -6,7 +6,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-<br>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImMaxence&count_private=true&theme=orange"alt="ImMaxence"/>
-</div>
